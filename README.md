@@ -1,3 +1,3 @@
-# This my 8th semesters Artificial Intelligence lab assignments.
+# This is our 8th semester Artificial Intelligence lab assignments.
 
 Enjoy 🤪 😆
